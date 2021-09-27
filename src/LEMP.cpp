@@ -1,7 +1,7 @@
 // main BP algorithm, with C compatibility
 #include <random>
 #include <iostream>
-#include "cheby-mp.hpp"
+#include "LEMP-fns.hpp"
 
 std::random_device rd;
 std::mt19937 rng(rd());
